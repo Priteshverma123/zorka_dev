@@ -63,5 +63,5 @@ class NavigationMenu extends StatelessWidget {
 class NavigationController extends GetxController{
   final Rx<int> currentIndex= 0.obs;
 
-  final screens = [HomePage(),Community(),menuPage()];
+  final screens = [HomePage(),MenuPage(),Community()];
 }

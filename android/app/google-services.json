@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "832571020314",
+    "project_id": "surat-e30f7",
+    "storage_bucket": "surat-e30f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832571020314:android:e204060cb6ea420e4aeda3",
+        "android_client_info": {
+          "package_name": "com.example.surat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832571020314-mnlrr3urk54uoluttvo72a271a3b8k4b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.surat",
+            "certificate_hash": "a494a4835833f5927429c79884d3dca205e6e4ff"
+          }
+        },
+        {
+          "client_id": "832571020314-kgb4rerm6eqe8rra0nffkd76jvu0dnku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9WwQpPiX8tKt3xOXjsWP5Kz-hhsvd3L8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832571020314-kgb4rerm6eqe8rra0nffkd76jvu0dnku.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "832571020314-179fcv1llvddo53m1n773d10c0vld5oe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.surat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832571020314:android:8225015a865b483a4aeda3",
+        "android_client_info": {
+          "package_name": "com.example.zorka_dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832571020314-kgb4rerm6eqe8rra0nffkd76jvu0dnku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9WwQpPiX8tKt3xOXjsWP5Kz-hhsvd3L8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832571020314-kgb4rerm6eqe8rra0nffkd76jvu0dnku.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "832571020314-179fcv1llvddo53m1n773d10c0vld5oe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.surat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
